@@ -6,12 +6,12 @@ Para comunicarse con nuestros responsables, enviar un mensaje con la siguiente i
 
 ### Asesoria
 
-Apellidos y Nombres*:
-Nombre de la carrera que estudio*:
-Nombre de la Universidad y ciudad a la que pertenece la Universidad*:
-Título tentativo de la Tesis:
-Área de concentración de la Tesis:
-Mensaje adicional:
+- Apellidos y Nombres*:
+- Nombre de la carrera que estudio*:
+- Nombre de la Universidad y ciudad a la que pertenece la Universidad*:
+- Título tentativo de la Tesis:
+- Área de concentración de la Tesis:
+- Mensaje adicional:
 * Información obligatoria.
 
 ```markdown
