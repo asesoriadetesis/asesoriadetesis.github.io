@@ -1,26 +1,37 @@
-## Sean bienvenidos, FUTUROS INGENIEROS.
+## Welcome to GitHub Pages
 
-Nuestra web está siendo construida, muy pronto brindaremos toda la información sobre nuestra metodología de trabajo.
-Nuestro equipo de asesores está formado por profesionales de gran nivel, egresados de las distintas universidades del Perú y el extrangero que cuentan con grados de Maestría y Doctorado.
-Para comunicarse con nuestros responsables, enviar un mensaje con la siguiente información al facebook ” https://www.facebook.com/asesoriadetesisparaingenieros/ ” o al correo “asesortesispe@gmail.com ”
+You can use the [editor on GitHub](https://github.com/asesoriadetesis/asesoriadetesis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Asesoria
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-- Apellidos y Nombres*:
-- Nombre de la carrera que estudio*:
-- Nombre de la Universidad y ciudad a la que pertenece la Universidad*:
-- Título tentativo de la Tesis:
-- Área de concentración de la Tesis:
-- Mensaje adicional:
-* Información obligatoria.
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Ejemplo.
+Syntax highlighted code block
 
-- Apellidos y Nombres*: Juan Eladio Chavez Chavez
-- Nombre de la carrera que estudio*: Ing. Sistemas
-- Nombre de la Universidad y ciudad a la que pertenece la Universidad*: UNI
-- Título tentativo de la Tesis: Identificación de personas mediante el reconocimiento dactilar y su aplicación a la seguridad organizacional
-- Área de concentración de la Tesis: Procesamiento de imágenes.
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asesoriadetesis/asesoriadetesis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
